@@ -1,8 +1,7 @@
-[![Build Status](https://app.travis-ci.com/berpress/moodle_ui_test.svg?branch=main)](https://app.travis-ci.com/berpress/moodle_ui_test)
-# moodle_ui_test
+# Flask Project
 Selenium/Python
 
-
+<!-- 
 Use python 3.8 +
 Create and activate virtual environments
 
@@ -28,4 +27,4 @@ https://qacoursemoodle.innopolis.university
 ```
 
 
-pytest --alluredir=allure-results/ 
+pytest --alluredir=allure-results/  -->
